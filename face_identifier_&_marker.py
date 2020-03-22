@@ -1,4 +1,4 @@
-# plot photo with detected faces using opencv cascade classifier
+# plotting photo with detected faces using opencv cascade classifier
 from cv2 import imread, imshow, waitKey
 from cv2 import destroyAllWindows, CascadeClassifier
 from cv2 import rectangle
